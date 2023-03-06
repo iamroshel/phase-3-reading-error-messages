@@ -1,3 +1,7 @@
+require 'a_name_error'  
+require 'spec_helper'
+
+
 describe "Not having any errors and being all green" do
 
   describe 'NameError' do
